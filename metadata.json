@@ -1,0 +1,5 @@
+{
+  "name": "Nairas",
+  "description": "A professional movie exploration application using the TMDb API. Features search, detailed movie information, and a persistent favorites list.",
+  "requestFramePermissions": []
+}
